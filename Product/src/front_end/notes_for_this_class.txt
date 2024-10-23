@@ -1,0 +1,39 @@
+        
+        
+        if event == "close_screen_home":
+            self.screen_home.close()
+        elif event == "close_screen_map_editor":
+            self.screen_map_editor.close()
+        elif event == "close_screen_new_map":
+            self.screen_new_map.close()
+        elif event == "close_screen_open_existing_file":
+            self.screen_open_existing_file.close()
+        elif event == "close_screen_setting":
+            self.screen_settings.close()
+
+        # forced close
+        elif event == "forced_close_screen_home":
+            nothing_happens = True
+        elif event == "forced_close_screen_map_editor":
+            self.screen_home.start()
+        elif event == "forced_close_screen_new_map":
+            self.screen_home.start()
+        elif event == "forced_close_screen_open_existing_file":
+            self.screen_home.start()
+        elif event == "forced_close_screen_setting":
+            self.screen_home.start()
+
+        # open
+        elif event == "open_screen_home":
+            self.screen_home.start()
+        elif event == "open_screen_map_editor":
+            self.screen_map_editor.start()
+        elif event == "open_screen_new_map":
+            self.screen_new_map.start()
+        elif event == "open_screen_open_existing_file":
+            self.screen_open_existing_file.start()
+        elif event == "open_screen_setting":
+            self.screen_settings.start()
+        
+        
+        finished = False

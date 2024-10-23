@@ -1,0 +1,40 @@
+{
+    "AllScreens": {
+        "fonts": {
+            "font_heading_1": ["Times New Roman", 20, "bold"],
+            "font_heading_2": ["Times New Roman", 18, "underline"],
+            "font_heading_3": ["Times New Roman", 16, "italic"],
+            "font_button": ["georgia", 13, "underline"],
+            "font_input": ["georgia", 10],
+            "font_text": ["georgia", 10, "bold"]
+        },
+        "initialization_parameters": {
+            "locationx": 0,
+            "locationy": 0,
+            "sizex": 1300,
+            "sizey": 800,
+            "finalize": true
+        }
+
+    },
+
+    "HomeScreen": {
+        "window_name": "Home Screen"
+    },
+
+    "MapEditorScreen": {
+        "window_name": "Map Editor"
+    },
+
+    "NewMapScreen": {
+        "window_name": "New Map Popup"
+    },
+
+    "OpenExistingFileScreen": {
+        "window_name": "Choose File"
+    },
+
+    "SettingsScreen": {
+        "window_name": "Settings"
+    }
+}

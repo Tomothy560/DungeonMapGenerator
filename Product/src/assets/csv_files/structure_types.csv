@@ -1,0 +1,7 @@
+index,structure_type.potential_variation #unfinish and not readied 
+0,structure_0,regular,000000
+1,rectangular_room,regular/treasure_room/altar,33bb33
+2,maze,regular,bbbb33
+3,circular_room,regular/spiral_staircase,33bb33
+4,corridor,regular/staircase/pillar_lined_corridor,3333bb
+5,L_room,regular,bb33bb

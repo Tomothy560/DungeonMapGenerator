@@ -1,0 +1,20 @@
+# standard variable names
+
+battle_map_save_file - title
+file_paths - dictionary of file paths for specific files
+
+grid - localise grid of cell values, size uniform across all sub program
+
+chunk_x
+chunk_y
+chunk_size
+
+sizex
+sizey
+cell_resolution
+
+pixel_x
+pixel_y
+
+
+

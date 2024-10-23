@@ -1,0 +1,10 @@
+{
+    "structure_generation_try_amount": 1000,
+    "structure_margin": 8,
+    "a_star_evaluate_g_values": false,
+    "enforce_margin": true,
+    "default_generation_method": "spine",
+    "path_generation_try_amount": 200,
+    "min_room_size": 30,
+    "max_room_size": 50
+}

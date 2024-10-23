@@ -1,0 +1,12 @@
+Index,Cell_Type,Color,PNG_file_path "#" are treated as NaN automatically
+0,void,000000
+1,path,bf9f40
+2,wall,333333
+3,entrance,80bf40
+4,hazard_1,ee2222
+5,hazard_2,ee2222
+6,hazard_3,ee2222
+7,water_1,2222ee
+8,water_2,2222ee
+9,water_3,2222ee
+10,connection,cb6ce6

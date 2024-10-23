@@ -1,0 +1,7 @@
+{
+    "default_chunksize": 16,
+    "default_cell_resolution": 8,
+    "default_texture": "default_layout_tile_set",
+    "battle_save_files": "C:\\Users\\user\\OneDrive\\Desktop\\Battle_Map_Creator_Python\\Battle_Map_Save_File",
+    "default_appearance": "LightTeal"
+}
